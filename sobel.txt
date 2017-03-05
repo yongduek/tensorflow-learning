@@ -1,2 +1,2 @@
-# input              output
-sobel/autumn.jpg   sobel/autumn-sobelx.jpg
+# input
+sobel/autumn.jpg
